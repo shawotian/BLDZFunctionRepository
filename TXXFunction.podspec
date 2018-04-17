@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "YLY" => "tianxiaoxiao@bldz.com" }
 
-  s.source       = { :git => "https://github.com/shawotian/BLDZFunctionRepository.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/shawotian/BLDZFunctionRepository.git", :tag => "0.0.1" }
 
   s.source_files  = "BldzFunction/BldzFunction/Function/*.{h,m}"
 
