@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
 
 #一个简短的介绍
-  s.summary      = “cocoapods实践”
+  s.summary      = "cocoapods实践"
 
 #描述
 #  s.description  = <<-DESC
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.author             = { "YLY" => "tianxiaoxiao@bldz.com" }
 
 #tag（所在的分支）
-  s.source       = { :git => "https://github.com/shawotian/BLDZFunctionRepository.git”, :tag => “v0.0.1” }
+  s.source       = { :git => "https://github.com/shawotian/BLDZFunctionRepository.git", :tag => "v0.0.1" }
 
 #h，m文件在项目中的路径
   s.source_files  = "BldzFunction/BldzFunction/Function/*.{h,m}"
